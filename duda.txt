@@ -1,0 +1,8 @@
+
+No tengo claro cuál es tu duda, pero asumiendo que es la obtención de la muestra, era algo así...
+
+# Fijar la semilla (no recuerdo de memoria el valor)
+set.seed(123) 
+
+# Obtener la muestra.
+# muestra <- sample(datos$estatura, 40, replace = FALSE)
